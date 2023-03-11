@@ -7,7 +7,7 @@
 
 
 
-- 🥅 2022 Goals: **Master Front-end Web Development and DSA**
+- 🥅 2023 Goals: **Master Front-end Web Development and DSA**
 
 - 🔭 I’m currently working on **building up my programming fundamentals/background**
 
