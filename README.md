@@ -7,7 +7,7 @@
 
 
 
-- 🥅 2023 Goals: **Master Full Stack Web Development and DSA**
+- 🥅 2024 Goals: **Master Full Stack Web Development and DSA**
 
 - 🔭 I’m currently working on **building up my programming fundamentals/background**
 
